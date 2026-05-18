@@ -1,0 +1,15 @@
+{
+  "prefix": "!",
+  "commands": {
+    "play": "play",
+    "skip": "skip",
+    "stop": "stop",
+    "pause": "pause",
+    "resume": "resume",
+    "queue": "queue",
+    "nowplaying": "nowplaying",
+    "volume": "volume",
+    "clear": "clear",
+    "leave": "leave"
+  }
+}
